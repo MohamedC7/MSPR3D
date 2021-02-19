@@ -12,3 +12,8 @@ Pour utiliser votre environnement virtuel, vous devez l'activer. Sur Mac et Linu
 
 `$ source bin/activate`
 La commande pour Windows est similaire, mais l'emplacement du script d'activation est à l'intérieur du Scriptsdossier au lieu de bin.
+
+Maintenant que vous avez un environnement virtuel Python activé, vous pouvez exécuter pippour installer Kivy. Sous Linux et Mac, vous exécuterez la commande suivante:
+
+`$ python -m pip install kivy`
+Sous Windows, l'installation est un peu plus complexe. Consultez la documentation officielle pour savoir comment installer Kivy sur Windows . (Les utilisateurs de Mac peuvent également télécharger un dmgfichier et installer Kivy de cette façon.)
