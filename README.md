@@ -18,10 +18,11 @@ Maintenant que vous avez un environnement virtuel Python activé, vous pouvez ex
 `$ python -m pip install kivy`
 Sous Windows, l'installation est un peu plus complexe. Consultez la documentation officielle pour savoir comment installer Kivy sur Windows . (Les utilisateurs de Mac peuvent également télécharger un dmgfichier et installer Kivy de cette façon.)
 
-#Deploying to Android with Buildozer
-Step 1) Download Virtualbox https://www.virtualbox.org/wiki/Downl...​
+## Deploying to Android with Buildozer
 
-Step 2) Download an Ubuntu 18.04 image https://ubuntu.com/download/desktop​
+Step 1) Download Virtualbox https://www.virtualbox.org/wiki/Downloads
+
+Step 2) Download an Ubuntu 18.04 image https://ubuntu.com/download/desktop
 
 Step 3) Make sure your phone is in Developer mode by going to Settings -- About Phone -- Software -- tap on 'Build Number' 7 times quickly. Now go to Settings -- Developer Options and enable Stay Awake and USB Debugging.
 
