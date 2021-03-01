@@ -1,6 +1,6 @@
 # MSPR3D
  ## Prerequis
-### Installation de Kivy
+### Installation de Kivy (To ingore)
 Kivy a de nombreuses dépendances, il est donc recommandé de l'installer dans un environnement virtuel Python. Vous pouvez utiliser la venvbibliothèque intégrée de Python ou le virtualenvpackage. Si vous n'avez jamais utilisé d'environnement virtuel Python auparavant, consultez Environnements virtuels Python: une introduction .
 
 Voici comment vous pouvez créer un environnement virtuel Python:
@@ -18,7 +18,7 @@ Maintenant que vous avez un environnement virtuel Python activé, vous pouvez ex
 `$ python -m pip install kivy`
 Sous Windows, l'installation est un peu plus complexe. Consultez la documentation officielle pour savoir comment installer Kivy sur Windows . (Les utilisateurs de Mac peuvent également télécharger un dmgfichier et installer Kivy de cette façon.)
 
-## Deploying to Android with Buildozer
+###  Deploying to Android with Buildozer
 
 Step 1) Download Virtualbox https://www.virtualbox.org/wiki/Downloads
 
